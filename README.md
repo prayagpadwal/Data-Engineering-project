@@ -2,4 +2,4 @@
 Sports Analytics and Data Engineering
 
 ## This is an on going project. The predictions uisng ML are yet to be published.
-#### Estimated Delivery of the project- 1st Week of July 2024
+#### postponed this project for a while (Working on https://github.com/prayagpadwal/ML-Entertainment-Suggestion)
